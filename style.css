@@ -1,0 +1,23 @@
+body {
+  background-color: #d5fdff;
+}
+
+h1 {
+  color: #e23e57;
+}
+
+h3 {
+  color: #e23e57;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile {
+  border-radius: 50%;
+}
